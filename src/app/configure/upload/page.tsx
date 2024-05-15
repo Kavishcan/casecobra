@@ -3,7 +3,7 @@
 const Page = () => {
   return (
     <div>
-      <h1>Upload</h1>
+      <h1>Upload my image </h1>
     </div>
   );
 };
